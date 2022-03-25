@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/R27-Py">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=R27-Py&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R27-Py&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=R27-Py&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R27-Py&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Renato-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
